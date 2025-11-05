@@ -5,6 +5,7 @@ import com.nadeem.microservices.userservice.service.UserService;
 import java.util.List;
 import org.springframework.web.bind.annotation.*;
 
+// somethings going on
 @RestController
 @RequestMapping("/users")
 public class UserController {
